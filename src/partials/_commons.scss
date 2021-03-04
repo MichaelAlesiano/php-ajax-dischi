@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img{
+  object-fit: cover;
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+.centro{
+  max-width: 1070px;
+  margin: 0 auto;
+}
+
+.up{
+  text-transform: uppercase;
+}

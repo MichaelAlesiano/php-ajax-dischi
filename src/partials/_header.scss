@@ -1,0 +1,10 @@
+header {
+  height: $height_header;
+  background-color: $colore_header;
+  @include flex (row, center, flex-start) ;
+
+  img{
+    height: 100px;
+    padding-left: 100px;
+  }
+}
